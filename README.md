@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Estou prestes a iniciar a faculdade de Engenharia de Software na UNIFAN. Atualmente estou focado em aprimorar meus conhecimentos em Java com Spring Boot e em busca da minha primeira oportunidade como Desenvolvedor Júnior/Estágio. 
+Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Estou prestes a iniciar a faculdade de Engenharia de Software na UNIFAN. Atualmente focado em aprimorar meus conhecimentos em Java com Spring Boot e em busca da minha primeira oportunidade como Desenvolvedor Júnior/Estágio. 
 
 ### Minhas redes:
 <div>
@@ -35,61 +35,54 @@ Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Estou prestes 
 ### Ferramentas e Tecnologias: 
 <div style="display: inline_block"><br>
 <img
-  align="left"
+  align="center"
   alt="Java"
   title="Java"
-  width="30px"
-  style="padding-right: 10px;"
+  width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img
-  align="left"
+  align="center"
   alt="Spring Boot"
   title="Spring Boot"
-  width="30px"
-  style="padding-right: 10px;"
+  width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img
-  align="left"
+  align="center"
   alt="PostgresSQL"
   title="PostgresSQL"
-  width="30px"
-  style="padding-right: 10px;"
+  width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img
-  align="left"
+  align="center"
   alt="Postman"
   title="Postman"
-  width="30px"
-  style="padding-right: 10px;"
+  width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img 
-  align="left"
+  align="center"
   alt="Git"
   title="Git"
-  width="30px"
-  style="padding-right: 10px;"
+  width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img 
-  align="left"
+  align="center"
   alt="HTML"
   title="HTML"
-  width="30px"
-  style="padding-right: 10px;"
+  width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img 
-  align="left"
+  align="center"
   alt="CSS"
   title="CSS"
-  width="30px"
-  style="padding-right: 10px;"
+  width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img 
-  align="left"
+  align="center"
   alt="IntelliJ"
   title="IntelliJ"
-  width="30px"
-  style="padding-right: 10px;"
+  width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </div>
 
+##
 
