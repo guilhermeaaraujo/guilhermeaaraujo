@@ -1,8 +1,6 @@
 ## Olá, bem vindo ao meu perfil!
 
-**`Desenvolvedor Backend`**
-
-Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Estou prestes a iniciar a faculdade de Engenharia de Software na UNIFAN. Atualmente focado em aprimorar meus conhecimentos em Java com Spring Boot e em busca da minha primeira oportunidade como Desenvolvedor Júnior/Estágio. 
+Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Estou prestes a iniciar a faculdade de Engenharia de Software na UNIFAN. Atualmente focado em aprimorar meus conhecimentos em Java com Spring Boot. 
 
 ### Minhas redes:
 <div>
