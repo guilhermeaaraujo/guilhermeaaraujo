@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu perfil!
 
-Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Estou prestes a iniciar a faculdade de Engenharia de Software na UNIFAN. Atualmente focado em aprimorar meus conhecimentos em Java com Spring Boot. 
+Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Sou estudante de Sistemas de Informação na UNEX. Atualmente estou focado em aprimorar meus conhecimentos em Java com Spring Boot, desenvolvendo projetos pessoais para testar e desafiar minhas habilidades.
 
 ### Minhas redes:
 <div>
@@ -14,12 +14,6 @@ Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Estou prestes 
     href="https://www.linkedin.com/in/guilherme-alves-14962b253"
     target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"> 
-  </a>
-  <a
-    href="https://www.instagram.com/guiilhrm._/"
-    target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       target="_blank"> 
   </a>
   <a
