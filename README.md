@@ -1,6 +1,8 @@
 ## Olá, bem vindo ao meu perfil!
 
-Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Sou estudante de Sistemas de Informação na UNEX. Atualmente estou focado em aprimorar meus conhecimentos em Java com Spring Boot, desenvolvendo projetos pessoais para testar e desafiar minhas habilidades.
+Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Sou estudante do primeiro semestre de Sistemas de Informação na UNEX. 
+
+Focado em desenvolvimento Back-End, já tenho prática com a construção de API's em Java e Spring Boot, aplicando em projetos pessoais. Atualmente aprendendo mais sobre back-end com o ecossistema .NET e a linguagem C#
 
 ### Minhas redes:
 <div>
@@ -74,7 +76,18 @@ Me chamo Guilherme Araújo, tenho 19 anos e sou natural da Bahia. Sou estudante 
   title="IntelliJ"
   width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img 
+  align="center"
+  alt="C#"
+  title="C#"
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img 
+  align="center"
+  alt=".NET"
+  title=".NET"
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
-
 ##
 
