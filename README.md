@@ -89,5 +89,4 @@ Focado em desenvolvimento Back-End, já tenho prática com a construção de API
   width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
-##
 
